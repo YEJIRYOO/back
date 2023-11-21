@@ -1,3 +1,4 @@
+/*
 package com.sbb.flexrate.dashboard;
 
 import com.sbb.flexrate.dto.DashboardCreateRequestDto;
@@ -53,3 +54,4 @@ public class Dashboard {
                 .build();
     }
 }
+*/
