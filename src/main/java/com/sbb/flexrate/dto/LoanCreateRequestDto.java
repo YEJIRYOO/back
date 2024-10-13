@@ -25,3 +25,4 @@ public class LoanCreateRequestDto {
     private Float korea_interest_rate=3.5f;//한국 은행 기준 금리_상수
     private Float index_pc= 1.223714f;//거시경제지표 pca_상수
 }
+//리펙
